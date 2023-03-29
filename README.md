@@ -1,6 +1,6 @@
 # resourses-web3
 
-## The idea is put here some resourses that is useful for me...
+The idea is put here some resourses that is useful for me...
 
 
 
