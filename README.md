@@ -1,7 +1,6 @@
 ## resourses-web3
 
-The idea is put here some resourses that is useful for me...
-
+The idea is to put here some resources that are useful for me...
 
 ### Solidity 
 - https://intro-ethereum.marto.lol/
