@@ -9,6 +9,9 @@ The idea is to put here some resources that are useful for me...
 ### Trie in Ethereum
 - https://medium.com/shyft-network/understanding-trie-databases-in-ethereum-9f03d2c3325d
 
+### Uint solidity
+- https://velvetshark.com/articles/max-int-values-in-solidity
+
 ### Merkle Tree
 - https://blog.ethereum.org/2015/11/15/merkling-in-ethereum
 
