@@ -1,4 +1,4 @@
-## resourses-web3
+## Resourses-web3
 
 The idea is to put here some resources that are useful for me...
 
